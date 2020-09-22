@@ -1,9 +1,0 @@
----
-layout: post
-title:  "PowerShell 101"
-date:   2020-09-14 05:44:49 -0300
-categories: PowerShell
-permalink: /:categories
----
-
-Hi This is powerShell 101
