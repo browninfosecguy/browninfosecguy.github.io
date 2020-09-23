@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "About"
-description: This is a style guide of the Scriptor Jekyll theme
-feature_image: images/HEADSHOT.jpg
+title: "About Me"
+description: A short blurb about me.
+feature_image: images/me.png
 ---
 
 
