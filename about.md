@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-feature_image: images/Sysmon/Diagram1.jpeg
+title: "About"
 description: This is a style guide of the Scriptor Jekyll theme
+feature_image: images/Sysmon/Diagram1.jpeg
 ---
 
 
