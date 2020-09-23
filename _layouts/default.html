@@ -22,19 +22,10 @@
 <meta name="twitter:creator" content="@{{ site.author }}">
 <meta name="twitter:title"   content="{{ page.title }}">
 
-{% if page.description %}
 <meta name="twitter:description" content="{{ page.description }}">
-{% else %}
-<meta name="twitter:description" content="{{ page.description }}">
-{% endif %}
-
-{% if page.feature_image %}
 <meta name="twitter:card"  content="summary_large_image">
 <meta name="twitter:image" content="{{ site.url }}{{ page.feature_image }}">
-{% else %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.url }}{{ page.feature_image }}">
-{% endif %}
+
 <!-- end of Twitter cards -->
 
 </head>
