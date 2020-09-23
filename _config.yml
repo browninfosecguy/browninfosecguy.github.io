@@ -31,9 +31,9 @@ navigation:
   - text: Home
     url: /
   - text: Blog
-    url: /tags/
+    url: /tags
   - text: About
-    url: /about/
+    url: /about
   - text: Resources
     url: /resources
   
