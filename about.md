@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-feature_image: images/HEADSHOT.jpg
+feature_image: images/Sysmon/Diagram1.jpeg
 description: This is a style guide of the Scriptor Jekyll theme
 ---
 
