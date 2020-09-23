@@ -67,5 +67,8 @@ sass:
   style: compressed
 
 # Twitter
-twitter:
-  username: browninfosecguy
+twitter_username: browninfosecguy
+
+# Author
+
+author: Sonny

@@ -3,7 +3,7 @@ layout: post
 title: "PowerShell ForEach Enumerator vs ForEach-Object Cmdlet "
 description: "The difference between foreach loop and cmdlet."
 date: 2020-09-23
-feature_image: images/PowerShell3.jpg 
+feature_image: images/PowerShell3.jpg
 tags: [PowerShell]
 ---
 The ForEach enumerator and ForEach-Object can be confusing at times. In this blog post I will highlight some differences between the two.
