@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Me
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/HEADSHOT.jpg
+title: Style Guide
+description: This is a style guide of the Scriptor Jekyll theme
 ---
+
 
 **Sonny** is a CyberSecurity Geek who lives in [Halifax](https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia), Canada. Sonny graduated from Dalhousie University with a Master's degree in Applied Computer Science. After living and working in Atlantic Canada Sonny moved to Ottawa where he missed the ocean and decided to move back to Atlantic Canada. 
 
