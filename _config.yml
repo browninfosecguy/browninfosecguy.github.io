@@ -32,7 +32,7 @@ navigation:
     url: /
   - text: Blog
     url: /tags/
-  - text: About Me
+  - text: About
     url: /about/
   - text: Resources
     url: /resources
