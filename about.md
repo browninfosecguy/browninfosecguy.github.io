@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: This is a style guide of the Scriptor Jekyll theme
-feature_image: images/HEADSHOT.png
+feature_image: images/HEADSHOT.jpg
 ---
 
 
