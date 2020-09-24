@@ -18,14 +18,15 @@
   <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
 
 <!-- Twitter cards -->
-<meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:site"    content="@{{ site.twitter_username }}">
-<meta name="twitter:creator" content="@{{ site.author }}">
-<meta name="twitter:title"   content="{{ page.title }}">
-<meta name="twitter:description" content="{{ page.description }}">
-<meta name="twitter:image" content="{{ site.title_image }}">
+<!-- twitter card details -->
+<meta content='summary' name='twitter:card'/>
+<meta content="@{{ site.twitter_username }}" name='twitter:site'/>
+<meta content="@{{ site.url }}" name='twitter:url'/>
+<meta content="{{ page.title }}" name='twitter:title'/>
+<meta content="{{ page.description }}" name='twitter:description'/>
+<meta content="{{ site.title_image }}" name='twitter:image'/>
+<!-- end twitter card details --> 
 
-<!-- end of Twitter cards -->
 
 </head>
 <body>
