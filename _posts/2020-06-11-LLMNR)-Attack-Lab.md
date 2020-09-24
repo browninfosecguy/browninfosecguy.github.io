@@ -66,4 +66,5 @@ kali@kali:~$ hashcat -m 5600 kreese guessList — force
 
 {% include diagram.html imageurl="/images/LLMNR-AttackLab/Diagram10.png" caption="" %}
 
+{% include thanks.html %}
 
