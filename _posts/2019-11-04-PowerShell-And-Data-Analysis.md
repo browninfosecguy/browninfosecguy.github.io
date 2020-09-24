@@ -6,7 +6,7 @@ description: "PowerShell and Data Analysis"
 date: 2019-11-04
 feature_image: /images/PowerShell-DataAnalysis/Diagram7.png
 tags: [PowerShell]
-hashtags: PowerShell, Shodan, JSON
+hashtags: PowerShell,Shodan,JSON
 ---
 This blog post was inspired from a talk me and my buddy [Grant](https://twitter.com/gzboudreau) did at [AtlSecCon](https://twitter.com/AtlSecCon). We analyzed Shodan data for four Atlantic provinces and presented our findings.
 For my research and data analysis I leveraged PowerShell and this blog post will present some lessons I learned.
