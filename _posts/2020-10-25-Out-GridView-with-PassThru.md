@@ -48,5 +48,17 @@ For demonstration purposes I'm using Stop-Process with WhatIf switch, but we can
 
 {% include diagram.html imageurl="/images/PowerShell-OutGridView/Diagram4.png" caption="Figure4: Stop-Process terminating the selected processes" %}
 
+We can also use Out-GridView to visually prompt user to select single or multiple values for a variable. For example, the following code will prompt user for selecting a single value and store it to variable 'choice'
+
+```
+$choice = 'A','B','C' | Out-GridView -Title "Select one value" -OutputMode Single
+```
+{% include diagram.html imageurl="/images/PowerShell-OutGridView/Diagram5.png" caption="Figure5: Out-GridView to select value for a variable" %}
+
+We can modify our code to even select multiple values as shown below
+
+```
+$process = Get-Process | select Name | Out-GridView -Title "Select processes" -OutputMode Multiple
+```
 
 {% include thanks.html %}
