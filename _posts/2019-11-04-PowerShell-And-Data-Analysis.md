@@ -5,7 +5,7 @@ twitter_image: /images/PowerShell-DataAnalysis/Diagram7.png
 description: "PowerShell and Data Analysis"
 date: 2019-11-04
 feature_image: /images/PowerShell-DataAnalysis/Diagram7.png
-tags: [PowerShell]
+tags: [PowerShell,Shodan]
 hashtags: PowerShell,Shodan,JSON
 ---
 This blog post was inspired from a talk me and my buddy [Grant](https://twitter.com/gzboudreau) did at [AtlSecCon](https://twitter.com/AtlSecCon). We analyzed Shodan data for four Atlantic provinces and presented our findings.
