@@ -6,7 +6,7 @@ description: "Link-Local Multicast Name Resolution (LLMNR) Attack Lab."
 date: 2020-06-11
 feature_image: /images/LLMNR-AttackLab/Diagram3.png
 tags: [CyberSecurity]
-hashtags: CyberSecurity
+hashtags: CyberSecurity,LLMNR,PenTesting
 ---
 
 This blog post is about LLMNR attack. LLMNR attack is commonly used by Penetration testers during an engagement to get their hands on NLMv2 hash. The captured hash is either used to obtain the original password or used in the pass the hash attack.
