@@ -24,6 +24,18 @@ This page contains list of useful resources. They are categorized under PowerShe
 
 # CyberSecurity
 
-**Quisque facilisis erat a dui**. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
+[CISSP Study Guide](https://www.amazon.com/CISSP-Study-Guide-Third-Conrad/dp/0128024372)
+
+[Attacking and Defending Active Directory](https://www.pentesteracademy.com/course?id=47)
+
+[Windows Privilege Escalation for Beginners](https://www.udemy.com/course/windows-privilege-escalation-for-beginners/)
+
+[Windows Privilege Escalation](https://www.udemy.com/course/windows-privilege-escalation/)
+
+[OWASP Web Goat](https://owasp.org/www-project-webgoat/)
+
+
+
+
 
 # Miscellaneous
