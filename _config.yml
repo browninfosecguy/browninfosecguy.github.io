@@ -18,7 +18,7 @@ description: "Welcome to my Personal Website. This site contains my blog posts o
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://browninfosecguy.com/"
+url: "https://browninfosecguy.com"
 
 # Favicon
 favicon: images/favicon.png
