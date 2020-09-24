@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "PowerShell Pipeline "
-twitter_title: "#PowerShell Pipeline by @browninfosecguy"
 twitter_image: /images/PowerShell-Pipeline/Diagram5.png
 description: "The PowerShell Pipeline."
 date: 2019-10-19
