@@ -6,6 +6,7 @@ description: "The PowerShell Pipeline."
 date: 2019-10-19
 feature_image: /images/PowerShell3.jpg
 tags: [PowerShell]
+hashtags: #PowerShell
 ---
 Pipeline in PowerShell is an easy yet very important concept to understand. Before diving into pipeline for PowerShell it’s important to understand pipelines in general. The concept of pipelines originates from Unix world. In simple terms pipeline is a thread to stich together different comands to produce desired output.
 <!--more-->
