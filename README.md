@@ -1,4 +1,4 @@
 
 
-[Scriptor-Jekyll-Theme](images/LOGO.png)
+![Scriptor-Jekyll-Theme](images/LOGO.png)
 
