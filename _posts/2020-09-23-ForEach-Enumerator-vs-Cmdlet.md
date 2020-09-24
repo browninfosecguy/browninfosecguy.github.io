@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#PowerShell ForEach Enumerator vs ForEach-Object Cmdlet "
+title: "PowerShell ForEach Enumerator vs ForEach-Object Cmdlet "
 twitter_image: /images/PowerShell-ForEach/Diagram3.png
 description: "The difference between foreach loop and cmdlet."
 date: 2020-09-23
