@@ -15,7 +15,6 @@ Ransomware is a major threat for any organization in current cybersecurity lands
 
 + RobbinHood ransomware
 + NetWalker ransomware
-+ NetWalker ransomware
 + Maze ransomware
 + REvil ransomware
 <!--more-->
@@ -64,7 +63,7 @@ Application guard should be enabled for office. Application guard act as a conta
 
 ### Implement Raccine
 
-Raccine is a tool developed by Florian Roth (<https://twitter.com/cyb3rops>). Raccine acts as a vaccine against ransomware. A ransomware starts by firt deleting the shadow copy backups before encrypting the files and folders. Shadow copies are based on file changes stacked on top of each other. These shadow copy backups are used to create restore points. If you want to read more about shadow copies please refer to Microsoft Documentation[^6].
+Raccine is a tool developed by Florian Roth (<https://twitter.com/cyb3rops>). Raccine acts as a vaccine against ransomware. A ransomware starts by first deleting the shadow copy backups before encrypting the files and folders. Shadow copies are based on file changes stacked on top of each other. These shadow copy backups are used to create restore points. If you want to read more about shadow copies please refer to Microsoft Documentation[^6].
 
 {% include diagram.html imageurl="/images/Ransomware-Guide/Diagram6.png" caption="Source: https://github.com/Neo23x0/Raccine" %}
 
