@@ -8,7 +8,7 @@ feature_image: /images/ActiveDirectory-Lab/Diagram1.png
 tags: [CyberSecurity]
 hashtags: PowerShell,PenTest,RedTeam
 ---
-The AD Penteting tool is a tool created in PowerShell to quickly setup an Active directory lab for testing purposes. This tool can help setup a Domain controller and Workstation in a lab environment quickly and effectively. While the tool is specifically written to configure an Active directory environment in a lab environment the tool can be easily stretched for production environment as its released under MIT license.
+The AD Pentesting tool is a tool created in PowerShell to quickly setup an Active directory lab for testing purposes. This tool can help setup a Domain controller and Workstation in a lab environment quickly and effectively. While the tool is specifically written to configure an Active directory environment in a lab environment the tool can be easily stretched for production environment as its released under MIT license.
 <!--more-->
 
 The process to manually configure a domain controller using GUI can be painful especially if you need to create and teardown the lab frequently. This single tool can not only configure a domain controller quickly but can also automate additional configuration such as creating share, creating users, and configuring group policy object for disabling Windows Defender which is something desirable especially in a lab environment. 
