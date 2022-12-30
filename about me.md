@@ -6,11 +6,9 @@ feature_image: images/me.png
 ---
 
 
-**Sonny** is a CyberSecurity Geek who lives in [Halifax](https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia), Canada. Sonny graduated from Dalhousie University with a Master's degree in Applied Computer Science. After living and working in Atlantic Canada Sonny moved to Ottawa where he missed the ocean and decided to move back to Atlantic Canada. 
+**Sonny** is a CyberSecurity professional based out of [Halifax](https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia), Canada. Sonny is a regular speaker at various CyberSecurity conferences. Sonny holds an Engineering and Master's degree in Computer Science from Dalhousie University. 
 
 Sonny has many interests outside CyberSecurity such as Sports, Travelling, Poker, surviving Covid-19 .....
-
-Sonny considers himself as an "amaterur" Malware researcher and is passionate about PowerShell. Sonny plans on becoming a full time PowerShell preacher if he get's tired from CyberSecurity.
 
 Some People Sonny deeply admire are:
 
