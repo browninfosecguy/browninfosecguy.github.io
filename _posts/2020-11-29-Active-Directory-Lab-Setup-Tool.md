@@ -93,3 +93,5 @@ The only thing left to do is add our workstation to the Domain. Option 7 help us
 {% include diagram.html imageurl="/images/ActiveDirectory-Lab/Diagram17.png" caption="Figure 17: Workstation is added to the Domain" %}
 
 I hope this tool can help automate the process of confguring an Active Directory lab for your testing environment quickly and effectively. If you have any comments or suggestions please feel free to contact me.
+
+{% include thanks.html %}

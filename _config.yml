@@ -12,7 +12,7 @@ lang: en-US
 title: "BrownInfoSecGuy"
 
 # A description of your site for meta tag, search engine results.
-description: "Welcome to my Personal Website. This site contains my blog posts on CyberSecurity, PowerShell and other topics. Thanks ~Sonny"
+description: "Welcome to my Personal Website. This site contains my blog posts on CyberSecurity and other topics. Thanks ~Sonny"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""

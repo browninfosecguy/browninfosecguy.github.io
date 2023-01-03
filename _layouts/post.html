@@ -22,11 +22,17 @@ layout: default
     </div><!-- .post-content -->
     <div class="post-share">
       <span>Share:</span>
-      <a target="_blank"
-        href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ page.url | absolute_url }}&amp;hashtags={{ page.hashtags }}" rel="noopener">Twitter</a>
-      <a target="_blank"
-        href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}&amp;t={{ page.title | uri_escape }}" rel="noopener">Facebook</a>
-    </div><!-- .share-post -->
+      <a href="https://www.facebook.com/sharer.php?t={{ site.url }}{{ page.url }}" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Facebook">
+                <i class="fa fa-facebook share-button"> Facebook</i>
+            </a>
+        <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Twitter">
+                <i class="fa fa-twitter share-button"> Twitter</i>
+            </a>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape}}" target="_blank">
+                <i class="fa fa-linkedin share-button"> LinkedIn</i>
+            </a>
     <div class="author-box">
       {% if site.data.author.image and site.data.author.image != "" %}
       <div class="author-avatar" style="background-image: url('{{ site.data.author.image }}')"><span class="screen-reader-text">{{ site.data.author.name }}'s Picture</span></div>
