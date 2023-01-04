@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DevSecOps Chronicles Part 1"
-summary_large_image: /images/devsecops101/DevSecOpsVenn.png
+twitter_image: /images/devsecops101/GitOps.png
 description: "This post is about DevSecOps 101."
 date: 2023-01-03
 feature_image: /images/devsecops101/DevSecOpsVenn.png
